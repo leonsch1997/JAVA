@@ -15,7 +15,7 @@ public class MAIN {
 	String[] palabra = new String[n];
 			
 	//input
-	System.out.println("Ingrese 10 palabras");
+	System.out.println("Ingrese "+n+" palabras");
 	for(int i=0;i<palabra.length;i++)
 		{
 		System.out.println("palabra "+(i+1)+": ");
